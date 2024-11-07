@@ -1,6 +1,6 @@
 # 👋 Matthew Svenson
 
-Hi! I'm Matthew, a passionate software developer with a strong foundation in web development and software engineering. I specialize in creating dynamic and responsive web applications using modern technologies. I am committed to writing clean and efficient code to bring innovative ideas to life.
+Hi! I'm Matthew, a passionate software developer with a strong foundation in software engineering. I am committed to writing clean and efficient code to bring innovative ideas to life.
 
 ---
 
@@ -30,17 +30,14 @@ Here are the tools, languages, and frameworks I've worked with:
 
 Here are some of my top projects:
 
+-  **[Education Database (HTML, PHP, SQL)](https://github.com/mjsvenson/EducationDatabase)**  
+  A Relational database implementation with an HTML front-end that simulates a fictional university website.
+
 - **[Image Encryption/Decryption (C++)](https://github.com/mjsvenson/EncryptionDecryptionIMG_CPP)**  
   A software tool for encrypting and decrypting images using a key in combination with a Fibonacci Linear Feedback Shift Register.
 
 - **[Block and Wall Collisions (Python)](https://github.com/mjsvenson/BlockAndWallCollisions)**  
   Simulation of a block hitting a wall that can compute pi. Inspired by the 3Blue1Brown article titled **["Why do colliding blocks compute pi?"](https://www.3blue1brown.com/lessons/clacks-solution)**.
-
-- **[Weather Dashboard (JavaScript)](#)**  
-  A web app displaying real-time weather data from an external API with dynamic UI updates and responsive design.
-
-- **[Interactive Quiz Application (JavaScript)](#)**  
-  A quiz app dynamically generating questions, tracking scores, and providing immediate feedback to users.
 
 ---
 
