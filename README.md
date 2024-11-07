@@ -1,3 +1,6 @@
+% To do:
+% 1. Add all projects currently on Resume
+
 # 👋 Matthew Svenson
 
 Hi! I'm Matthew, a passionate software developer with a strong foundation in software engineering. I am committed to writing clean and efficient code to bring innovative ideas to life.
