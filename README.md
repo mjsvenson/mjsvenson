@@ -30,8 +30,8 @@ Here are the tools, languages, and frameworks I've worked with:
 
 Here are some of my top projects:
 
-- **[Real-time Currency Converter (C++)](#)**  
-  A console application that fetches live exchange rates from an API, featuring a user-friendly interface for seamless input and output.
+- **[Image Encryption/Decryption (C++)](https://github.com/mjsvenson/EncryptionDecryptionIMG_CPP)**  
+  A software tool for encrypting and decrypting images using a key in combination with a Fibonacci Linear Feedback Shift Register.
 
 - **[JavaScript Stopwatch](#)**  
   A dynamic stopwatch using JavaScript, HTML, and CSS with real-time updates and responsive design.
