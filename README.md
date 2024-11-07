@@ -33,8 +33,8 @@ Here are some of my top projects:
 - **[Image Encryption/Decryption (C++)](https://github.com/mjsvenson/EncryptionDecryptionIMG_CPP)**  
   A software tool for encrypting and decrypting images using a key in combination with a Fibonacci Linear Feedback Shift Register.
 
-- **[Block and Wall Collisions (Python)](#https://github.com/mjsvenson/BlockAndWallCollisions)**  
-  Simulation of a block hitting a wall that can compute pi. Inspired by the 3Blue1Brown article titled **["Why do colliding blocks compute pi?"](#https://www.3blue1brown.com/lessons/clacks-solution)**.
+- **[Block and Wall Collisions (Python)](https://github.com/mjsvenson/BlockAndWallCollisions)**  
+  Simulation of a block hitting a wall that can compute pi. Inspired by the 3Blue1Brown article titled **["Why do colliding blocks compute pi?"](https://www.3blue1brown.com/lessons/clacks-solution)**.
 
 - **[Weather Dashboard (JavaScript)](#)**  
   A web app displaying real-time weather data from an external API with dynamic UI updates and responsive design.
