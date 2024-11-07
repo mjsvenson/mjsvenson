@@ -1,5 +1,4 @@
-% To do:
-% 1. Add all projects currently on Resume
+[//]: # (To Do: Add all my resume projects) 
 
 # 👋 Matthew Svenson
 
